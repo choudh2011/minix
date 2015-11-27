@@ -1,5 +1,6 @@
 #! /usr/bin/env sh
 #	$NetBSD: build.sh,v 1.273 2013/08/30 10:29:06 pooka Exp $
+
 #
 # Copyright (c) 2001-2011 The NetBSD Foundation, Inc.
 # All rights reserved.
